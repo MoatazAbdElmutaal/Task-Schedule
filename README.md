@@ -19,4 +19,3 @@ Delete Task:Click the "Delete" button next to a task to remove it.
 Contributions: 
 
 1- moataz abd Elmutaal.
-2- Abobkur Ahmed.
