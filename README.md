@@ -8,7 +8,7 @@ Key Features:
 
 - Delete Task: Remove tasks.
 
-*Technologies UsedFrontend: HTML, CSS, JavaScript.
+Technologies UsedFrontend: HTML, CSS, JavaScript.
 
 How to Use Add New Task:Type a new task in the input box and click "Add Task".
 
